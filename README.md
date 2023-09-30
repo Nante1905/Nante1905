@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello World, I'm @Nante1905 👋
+- 🌱 I’m currently learning Computer Science at IT-University
+- 🍕 I’m looking to collaborate on a lot of project
+- 📫 How to reach me: minoharynantenaina@outlook.com
 <!--
 **Nante1905/Nante1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
