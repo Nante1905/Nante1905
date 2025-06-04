@@ -1,6 +1,6 @@
 ### Hello World, I'm Minohary Nantenaina 👋
-Currently learning Computer Science at IT-University 🌱\
-Always looking for projects to collab 💡 \
+Graduated Computer Science student at IT-University 🌱\
+I can bring digital development for your company by helping you design, develop, and build any digital solutions 💡 \
 How to reach me: 📫 minoharynantenaina@gmail.com 📫
 <!--
 **Nante1905/Nante1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
